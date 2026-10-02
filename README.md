@@ -38,7 +38,7 @@ For reproducible CI, replace `releases/latest/download` with a versioned release
 URL, for example:
 
 ```ini
-Packages = https://github.com/ryandejaegher/ryan-vale/releases/download/v0.1.0/ryan-vale.zip
+Packages = https://github.com/ryandejaegher/ryan-vale/releases/download/v0.1.1/ryan-vale.zip
 ```
 
 ## Development
