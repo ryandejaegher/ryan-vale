@@ -1,0 +1,6 @@
+extends: existence
+message: "You should work with Pied Piper."
+level: error
+ignorecase: false
+tokens:
+  - Hooli
